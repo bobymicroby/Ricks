@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Elmo for a Spin</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="play">play</string>
+    <string name="enter_your_name">Enter your name.</string>
+</resources>
